@@ -1,0 +1,168 @@
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\AdminLTE1.dll.config
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\AdminLTE1.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\AdminLTE1.pdb
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\Antlr3.Runtime.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\Newtonsoft.Json.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\RouteJs.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\RouteJs.Mvc5.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.Helpers.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.Mvc.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.Optimization.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.Razor.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.WebPages.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\WebActivatorEx.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\WebGrease.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\WebHelpers.Mvc5.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\Antlr3.Runtime.pdb
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\Newtonsoft.Json.xml
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.Helpers.xml
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.Razor.xml
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.WebPages.xml
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.Mvc.xml
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\System.Web.Optimization.xml
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\WebHelpers.Mvc5.xml
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\obj\Debug\AdminLTE1.csproj.CoreCompileInputs.cache
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\obj\Debug\AdminLTE1.csproj.CopyComplete
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\obj\Debug\AdminLTE1.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\obj\Debug\AdminLTE1.pdb
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\csc.exe
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\csc.exe.config
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\csc.rsp
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\csi.exe
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\csi.exe.config
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\csi.rsp
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.AppContext.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Console.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\vbc.exe
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\vbc.exe.config
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\vbc.rsp
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Centric Data\source\repos\AdminLTE1\AdminLTE1\obj\Debug\AdminLTE1.csprojAssemblyReference.cache
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\AdminLTE1.dll.config
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\AdminLTE1.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\AdminLTE1.pdb
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\csc.exe
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\csc.exe.config
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\csc.rsp
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\csi.exe
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\csi.exe.config
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\csi.rsp
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.AppContext.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Console.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\vbc.exe
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\vbc.exe.config
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\vbc.rsp
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\Antlr3.Runtime.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\Newtonsoft.Json.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\RouteJs.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\RouteJs.Mvc5.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.Helpers.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.Mvc.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.Optimization.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.Razor.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.WebPages.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\WebActivatorEx.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\WebGrease.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\WebHelpers.Mvc5.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\Antlr3.Runtime.pdb
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\Newtonsoft.Json.xml
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.Helpers.xml
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.Razor.xml
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.WebPages.xml
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.Mvc.xml
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\System.Web.Optimization.xml
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\bin\WebHelpers.Mvc5.xml
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\obj\Debug\AdminLTE1.csprojAssemblyReference.cache
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\obj\Debug\AdminLTE1.csproj.CoreCompileInputs.cache
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\obj\Debug\AdminLTE1.csproj.CopyComplete
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\obj\Debug\AdminLTE1.dll
+C:\Users\Centric Data\Desktop\Insurance System\AdminLTE1\AdminLTE1\obj\Debug\AdminLTE1.pdb
